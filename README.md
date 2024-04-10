@@ -13,7 +13,7 @@ This project provides a command-line based tool to view and manipulate images in
 ![icardir_demo](https://github.com/vbotics/icatdir/assets/10283521/429a24db-513e-4cba-b8d4-4f9da9c91faf)
 
 
-Image source by [upklyak on Freepik](https://www.freepik.com/free-vector/viking-cartoon-character-animation-2d-barbarian_29222691.htm")
+Image source by [upklyak on Freepik](https://www.freepik.com/free-vector/viking-cartoon-character-animation-2d-barbarian_29222691.htm)
 
 ## Prerequisites
 
