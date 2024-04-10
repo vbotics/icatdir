@@ -1,4 +1,4 @@
-# Image Viewer and Manipulator
+# icatdir: Directory Image Viewer & Manipulator for Kitty
 
 This project provides a command-line based tool to view and manipulate images in a directory. It's built to run in the Kitty terminal and leverages the power of ImageMagick for image manipulations.
 
@@ -10,6 +10,8 @@ This project provides a command-line based tool to view and manipulate images in
 - Minimalistic design with clear instructions.
 
 ## Demo
+![icardir_demo](https://github.com/vbotics/icatdir/assets/10283521/429a24db-513e-4cba-b8d4-4f9da9c91faf)
+
 
 Image source by [upklyak on Freepik](https://www.freepik.com/free-vector/viking-cartoon-character-animation-2d-barbarian_29222691.htm")
 
